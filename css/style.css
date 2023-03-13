@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&family=Heebo:wght@200;400&family=Jua&family=Kalam:wght@400;700&family=Press+Start+2P&display=swap');
+
+.photo-id{
+    height: 45px;
+    width: 45px;
+}
+
+.nav-link{
+    color: white !important;
+    font-family: 'Gentium Book Plus';
+}
+
+.navbar-brand{
+    font-family: 'kalam';
+}
+
+#home{
+    background: url(../img/triangle-mosaic.webp);
+    size: cover;
+
+}
+
+#home .home-content{
+    margin-top: 100px;
+    font-size: 25px;
+    margin-bottom: 30px;
+    font-family: 'Heebo';
+}
+
+#welcome{
+    font-family: 'Press Start 2P';
+    font-size: 45px;
+    font-weight: 700;
+}
+
+#mouse{
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.mouse-img{
+    height: 50px;
+    width: 50px;
+}
+
+.see-more{
+    font-size: 18px;
+    font-family: 'Heebo';
+    font-weight: 200;
+}
+
+#about-me{
+    background-color: azure;
+    padding:70px 0px;
+}
+
+#project{
+    background: url(../img/triangle-mosaic.webp);
+    padding:70px 0px; 
+}
+
+#games{
+    background-color: azure;
+    padding:70px 0px; 
+}
+
+#contact{
+    background: url(../img/triangle-mosaic.webp);
+    padding:70px 0px; 
+}
+
+h1, h2, h3, h5, h6{
+    font-family: 'jua';
+}
